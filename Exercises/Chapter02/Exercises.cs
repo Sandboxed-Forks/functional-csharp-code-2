@@ -8,9 +8,11 @@ namespace Exercises.Chapter2
    {
       // 1. Write a function that negates a given predicate: whenever the given predicate
       // evaluates to `true`, the resulting function evaluates to `false`, and vice versa.
+      static bool Negate(bool value) => !value;
 
       // 2. Write a method that uses quicksort to sort a `List<int>` (return a new list,
       // rather than sorting it in place).
+      
 
       // 3. Generalize your implementation to take a `List<T>`, and additionally a 
       // `Comparison<T>` delegate.
