@@ -23,9 +23,6 @@ namespace Exercises.Chapter2
          Func<int, bool> divBy3 = x => x%3 == 0;
          var actual = divBy3.Negate();
          actual(6).Should().BeFalse();
-         // Predicate<int> givenDivisibleByThree = (x) => x % 3 == 0;
-         // bool actual = givenDivisibleByThree.Negate(6);
-         // actual.Should().BeTrue();
       }
 
       static bool Negate<T>(this Predicate<T> self, T input)
