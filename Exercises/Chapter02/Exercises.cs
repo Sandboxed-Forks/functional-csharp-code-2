@@ -28,16 +28,16 @@ namespace Exercises.Chapter2
          // actual.Should().BeTrue();
       }
 
-      static bool Negate<T>(this Predicate<T> self)
+      static bool Negate<T>(this Predicate<T> self, T input)
       {
-         return false;
+         return !self(input);
       }
 
       [Test] public static void TestNegatePredicate()
       {
          Predicate<int> givenDivisibleByThree = (x) => x % 3 == 0;
-         bool actual = givenDivisibleByThree.Negate();
-         // actual.Should().BeTrue();
+         bool actual = givenDivisibleByThree.Negate(6);
+         actual.Should().BeFalse();
       }
 
       // 2. Write a method that uses quicksort to sort a `List<int>` (return a new list,
