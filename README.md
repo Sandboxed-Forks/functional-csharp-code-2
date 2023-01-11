@@ -1,5 +1,7 @@
 # Functional Programming in C#, 2nd Edition
 
+> See the [**Journal**](./Docs/ReadMe.md) for more information.
+
 This repo contains the code samples, exercises and solutions for the book
 [Functional Programming in C#, 2nd Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition&a_bid=c4a6909b)
 published by Manning. The 2nd Edition builds on the success of the 1st, 
