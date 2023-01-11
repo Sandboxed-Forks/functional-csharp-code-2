@@ -11,6 +11,22 @@
   - [ ] [Reinventing the Reader monad](https://fsharpforfunandprofit.com/posts/elevated-world-6/) - Or, designing your own elevated world
   - [ ] [Map and Bind and Apply, a summary](https://fsharpforfunandprofit.com/posts/elevated-world-7/)
 - [ ] [OOP, FP, and object-relational impedance mismatch](https://enterprisecraftsmanship.com/posts/oop-fp-and-object-relational-impedance-mismatch/)
+- [ ] Monads by ***Eric Clippert***
+  - [ ] [Part 1](https://ericlippert.com/2013/02/21/monads-part-one/#more-461)
+  - [ ] [Part 2](https://ericlippert.com/2013/02/25/monads-part-two/#more-464)
+  - [ ] [Part 3](https://ericlippert.com/2013/02/28/monads-part-three/#more-470)
+  - [ ] [Part 4](https://ericlippert.com/2013/03/04/monads-part-four/#more-480)
+  - [ ] [Part 5](https://ericlippert.com/2013/03/07/monads-part-five/#more-488)
+  - [ ] [Part 6](https://ericlippert.com/2013/03/11/monads-part-six/#more-521)
+  - [ ] [Part 7](https://ericlippert.com/2013/03/14/monads-part-seven/#more-525)
+  - [ ] [Part 8](https://ericlippert.com/2013/03/18/monads-part-eight/#more-537)
+  - [ ] [Part 9](https://ericlippert.com/2013/03/21/monads-part-nine/#more-557)
+  - [ ] [Part 10](https://ericlippert.com/2013/03/25/monads-part-ten/#more-885)
+  - [ ] [Part 11](https://ericlippert.com/2013/03/28/monads-part-eleven/#more-891)
+  - [ ] [Part 12](https://ericlippert.com/2013/04/02/monads-part-twelve/#more-927)
+  - [ ] [Part 13](https://ericlippert.com/category/monads/) - conclusion
+- [ ] [**:+1: The Math Needed for Computer Science**](https://youtu.be/eSFA1Fp8jcU)
+  - [ ] [*Computer Science/Computer Engineering*](https://www.youtube.com/playlist?list=PLi5WqFHu_OJMouMI0TC6uH4AjqJqKdA0x) - 15 videos
 - [ ] [**TDD:** The Game of Life — How to Code More Complicated Logic in TDD?](https://www.elpassion.com/blog/how-to-code-more-complicated-logic-in-tdd)
 - [ ] [**TDD Gamification** - Turning Test Driven Development into a Game](https://davembush.github.io/tdd-gamification-turning-test-driven-development-into-a-game/)
 - [ ] [Test Driven Game Development Experiences](https://www.gamedeveloper.com/programming/test-driven-game-development-experiences)
@@ -28,3 +44,4 @@
   - [ ] [Monads explained in C# (again)](https://mikhail.io/2018/07/monads-explained-in-csharp-again/)
   - [ ] [Functional monads in C#](https://www.red-gate.com/simple-talk/development/dotnet-development/functional-monads-c-sharp/)
   - [ ] [Get value out of your monad - Mark Seemann](https://youtu.be/F9bznonKc64)
+  - [ ] [Introduction to monad theory](https://www.futurelearn.com/info/courses/functional-programming-haskell/0/steps/27246)
